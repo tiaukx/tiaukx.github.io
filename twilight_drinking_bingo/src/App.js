@@ -1,4 +1,4 @@
-import Box from "./components/Box";
+import CardGrid from "./components/CardGrid";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
         <p>Twilight Bingo</p>
       </header>
       <body>
-        <Box />
+        <CardGrid />
       </body>
     </div>
   );
