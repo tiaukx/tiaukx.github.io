@@ -26,15 +26,21 @@ const CardGrid = () => {
 
         if (!inArray) {
             setRandomCards(prev => [...prev, newVal]);
-        } 
+            arrLength++;
+        }
+
+        return randomCards, arrLength;
     };
+
+    // const removeDupes = (data) => {
+    //     return data.filter((val, index) => data.indexOf(val) === index);
+    // }
+
+    // removeDupes(randomCards);
 
     do {
         generateRandom();
-        arrLength++;
-    } while (arrLength < gridSize) 
-
-    // const uniqueCards = Array.from(new Set(randomCards))
+    } while (arrLength < gridSize)
 
     const handleClick = (cardId) => {
         let chosenCard = randomCards.find(e => e.cardId === cardId);
