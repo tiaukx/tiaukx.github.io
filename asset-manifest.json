@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/twilight_drinking_bingo/static/css/main.85768c17.css",
-    "main.js": "/twilight_drinking_bingo/static/js/main.7ba22830.js",
-    "static/js/787.1434c622.chunk.js": "/twilight_drinking_bingo/static/js/787.1434c622.chunk.js",
-    "static/media/twilight-bg.jpg": "/twilight_drinking_bingo/static/media/twilight-bg.7ca8fe558eeff1ffb8c6.jpg",
-    "index.html": "/twilight_drinking_bingo/index.html",
-    "main.85768c17.css.map": "/twilight_drinking_bingo/static/css/main.85768c17.css.map",
-    "main.7ba22830.js.map": "/twilight_drinking_bingo/static/js/main.7ba22830.js.map",
-    "787.1434c622.chunk.js.map": "/twilight_drinking_bingo/static/js/787.1434c622.chunk.js.map"
+    "main.css": "/static/css/main.85768c17.css",
+    "main.js": "/static/js/main.45f99838.js",
+    "static/js/787.1434c622.chunk.js": "/static/js/787.1434c622.chunk.js",
+    "static/media/twilight-bg.jpg": "/static/media/twilight-bg.7ca8fe558eeff1ffb8c6.jpg",
+    "index.html": "/index.html",
+    "main.85768c17.css.map": "/static/css/main.85768c17.css.map",
+    "main.45f99838.js.map": "/static/js/main.45f99838.js.map",
+    "787.1434c622.chunk.js.map": "/static/js/787.1434c622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.7ba22830.js"
+    "static/js/main.45f99838.js"
   ]
 }
