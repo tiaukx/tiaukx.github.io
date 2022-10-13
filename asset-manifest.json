@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.85768c17.css",
-    "main.js": "/static/js/main.95a6e71f.js",
+    "main.js": "/static/js/main.e17caeda.js",
     "static/js/787.1434c622.chunk.js": "/static/js/787.1434c622.chunk.js",
     "static/media/twilight-bg.jpg": "/static/media/twilight-bg.7ca8fe558eeff1ffb8c6.jpg",
     "index.html": "/index.html",
     "main.85768c17.css.map": "/static/css/main.85768c17.css.map",
-    "main.95a6e71f.js.map": "/static/js/main.95a6e71f.js.map",
+    "main.e17caeda.js.map": "/static/js/main.e17caeda.js.map",
     "787.1434c622.chunk.js.map": "/static/js/787.1434c622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.95a6e71f.js"
+    "static/js/main.e17caeda.js"
   ]
 }
