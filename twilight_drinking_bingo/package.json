@@ -1,7 +1,7 @@
 {
   "name": "twilight_drinking_bingo",
   "version": "0.1.0",
-  "homepage": "https://tiaukx.github.io",
+  "homepage": "https://tiaukx.github.io/twilight_bingo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
