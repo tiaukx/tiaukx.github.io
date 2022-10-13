@@ -1,13 +1,15 @@
-import CardGrid from "./components/CardGrid";
+import Navi from "./components/Navi";
+import PageLoad from "./components/PageLayout";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{}}>
       <header className="App-header">
-        <p>Twilight Bingo</p>
+        <Navi />
       </header>
       <body>
-        <CardGrid />
+        <br/>
+        <PageLoad />
       </body>
     </div>
   );

@@ -1,13 +1,15 @@
-import { Card, Row } from 'react-bootstrap';
+import { Card, Col, Row } from 'react-bootstrap';
 
 const twilightCard = (props) => {
     return (
         <>
-            <Card style={{width: '10rem', height: '10rem'}} onClick={() => props.handleClick(props.cardId)} >
-                <Card.Body>
-                    <Row>{props.cardId}. {props.cardText}</Row>
-                </Card.Body>
-            </Card>
+            <Col>
+                <Card className="my-1 mx-1 " style={{ width: '7.5rem', height: '7.5rem' }} onClick={() => props.handleClick(props.cardId)} >
+                    <Card.Body className="d-flex align-items-center justify-content-center" >
+                        <Row className="fw-bold font-monospace lh-1 " style={{textAlign: "center"}}>{props.cardId}. {props.cardText}</Row>
+                    </Card.Body>
+                </Card>
+            </Col>
         </>
     )
 };
